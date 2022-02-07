@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "Kronos",
+    "description": "Extension title"
+  },
+  "appDesc": {
+    "message": "Lightweight read later extension",
+    "description": "Extension description"
+  },
+  "tooltip_default": {
+    "message": "Save with Kronos",
+    "description": "Default extension tooltip"
+  },
+  "info_message": {
+    "message": "- Kronos will send the current page to the designated inbox.\n
+    - This could be an email to a service like Kill-the-Newsletter or the uri of
+    an external application (i.e. 'shortcuts://', 'reeder://', etc.) for a lightweight
+    read-later system. \n
+    - Click title to access recently saved.",
+    "description": "Message displayed from usage info button"
+  }
+}

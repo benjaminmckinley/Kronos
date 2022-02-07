@@ -3,7 +3,6 @@
 /* global variables */
 var maxRecent = 10;
 
-
 /*
  * Setup events on popup creation.
  */
